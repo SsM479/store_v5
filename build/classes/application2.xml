@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<bean id="ICategoryDao" class="cn.itcast.store.dao.daoImp.OracleCategoryDaoImpl"/>
+	<bean id="IUserDao" class="cn.itcast.store.dao.daoImp.OracleUserDaoImpl"/>
+	<bean id="IProductDao" class="cn.itcast.store.dao.daoImp.OracleProductDaoImpl"/>
+</beans>
+
+
